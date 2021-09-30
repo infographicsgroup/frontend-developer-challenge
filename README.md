@@ -19,7 +19,7 @@ The project should be contained in one repository (monorepo), Example:
 ```
 
 You can keep API (Backend) code in the `server` folder and UI code in the `client` folder (This is just an example but you can decide however you want).
-After you completing the project, Send us an email and we will have it reviewed
+After you completing the project, Send us an email and we will have it reviewed.
 
 ## The Challenge
 
@@ -38,7 +38,7 @@ Create a very simple web application that shows list of job opportunities and a 
 
 
 ### Bonus  (not required but nice-to-have)
-- Using Redux or any State managment library.
+- Using Redux/Context API or any State managment library.
 - Unit tests for both React and Nodejs code.
 - Dockerize your app. This way we can run both API and UI in a single command. `docker-compose up`.
 
@@ -46,12 +46,12 @@ Create a very simple web application that shows list of job opportunities and a 
 
 - Use React.js(Typescript) or any React framwork (Next.js).
 - Feel free to use any CSS or SCSS framwork.
-- Use Node.js for the rest API
+- Use Node.js or Next.js API feature for the rest API
  
 __You don’t have to worry about:__
 
 - An admin panel
-- Detailed(Single) Job page
+- Detailed and Perfect UI
 - Deployment
 - CI configuration
 - Secret Management
